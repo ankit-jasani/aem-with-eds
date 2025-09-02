@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/awe/:/",
-    "/content/awe/configuration:/.helix/config.json",
-    "/content/awe/metadata:/metadata.json"
+    "/content/wknd/us/en/:/",
+    "/content/wknd/us/en/configuration:/.helix/config.json",
+    "/content/wknd/us/en/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/awe/"
+    "/content/wknd/us/en/"
   ]
 }
