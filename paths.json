@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/wknd/:/",
-    "/content/wknd/configuration:/.helix/config.json",
-    "/content/wknd/metadata:/metadata.json"
+    "/content/aem-with-eds/:/",
+    "/content/aem-with-eds/configuration:/.helix/config.json",
+    "/content/aem-with-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/wknd/"
+    "/content/aem-with-eds/"
   ]
 }
