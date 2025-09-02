@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-with-eds/:/",
-    "/content/aem-with-eds/configuration:/.helix/config.json",
-    "/content/aem-with-eds/metadata:/metadata.json"
+    "/content/awe/:/",
+    "/content/awe/configuration:/.helix/config.json",
+    "/content/awe/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-with-eds/"
+    "/content/awe/"
   ]
 }
